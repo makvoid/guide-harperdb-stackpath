@@ -6,7 +6,7 @@ To act as the test project, I am going to use a simple movie quotes database to 
 
 # Links
 
-Article Link: [Link](#TODO)
+Article Link: [Link](https://harperdb.io/blog/deploy-harperdb-stackpath-to-reduce-latency-at-the-edge/)
 
 HarperDB: [HarperDB](https://harperdb.io/)
 
